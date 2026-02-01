@@ -1,0 +1,12 @@
+# Agent Changelog
+
+This file tracks changes implemented by the AI agent.
+
+## 2026-02-01
+- Implemented core story grading logic (`story_grader.py`)
+- Added heuristic-based scoring for artistic and marketing factors
+- Added request logging (`logs/requests.log`)
+- Added system/change logging (`logs/changes.log`)
+- Created logging utilities module
+- Added README documentation
+- Added web-based UI for uploading and grading stories
