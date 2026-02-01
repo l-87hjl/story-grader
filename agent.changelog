@@ -10,3 +10,6 @@ This file tracks changes implemented by the AI agent.
 - Created logging utilities module
 - Added README documentation
 - Added web-based UI for uploading and grading stories
+- Added weighted art vs commerce scoring
+- Added UI slider for tuning artistic vs commercial emphasis
+- Added API mode for Substack, Medium, and CMS integrations
